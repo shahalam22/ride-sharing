@@ -1,0 +1,7 @@
+frontend
+node_modules
+dist
+coverage
+.vscode
+.idea
+docker-compose.dev.yml
